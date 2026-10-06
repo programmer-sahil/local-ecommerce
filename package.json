@@ -29,7 +29,7 @@
     "@axe-core/playwright": "4.12.1",
     "@playwright/test": "1.62.0",
     "@types/node": "26.1.1",
-    "eslint": "9.39.5",
+    "eslint": "10.9.1",
     "prettier": "3.9.5",
     "turbo": "2.10.5",
     "typescript": "6.0.3",
