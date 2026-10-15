@@ -27,7 +27,7 @@
   "devDependencies": {
     "@thread/config": "workspace:*",
     "@axe-core/playwright": "4.12.1",
-    "@playwright/test": "1.62.0",
+    "@playwright/test": "1.62.1",
     "@types/node": "26.1.1",
     "eslint": "9.39.5",
     "prettier": "3.9.5",
